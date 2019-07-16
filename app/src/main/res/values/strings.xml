@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question_text">Placeholder for first question...</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="hint_button">Hint?</string>
+
+    <string name="question_1">Your Zodiac sign provides insight into some specific traits, desires, and attitudes you have toward life.</string>
+    <string name="question_2">There are 13 Zodiac Signs.</string>
+    <string name="question_3">The are 3 Elements that each Sign belongs to: Air, Fire, and Water.</string>
+    <string name="question_4">Astrology is the study of the movements and relative positions of celestial bodies interpreted as having an influence on human affairs and the natural world.</string>
+    <string name="question_5">Each Sign begins on the 1st day of the month and ends on the last.</string>
+    <string name="question_6">The first Sign of the Zodiac calendar is _____, meaning Ram in Latin. </string>
+    <string name="question_7">What symbol is attached to the sign Leo?</string>
+
+    <string name="feedback_box">Placeholder for feedback</string>
+    <string name="feedback_1">The Zodiac is great for a little self insight!</string>
+    <string name="feedback_2">There are only 12 Zodiac Signs!</string>
+    <string name="feedback_3">There are 4 Elements that correspond with 3 Signs each: Fire, Earth, Air, Water.</string>
+    <string name="feedback_4">Each person\'s chart is compiled from the place and time of birth around the world, making you completely unique!</string>
+    <string name="feedback_5">The Signs start between the 19th and 23rd, and they run approx. a month.</string>
+    <string name="feedback_6">The last sign of the Zodiac is Pieces.</string>
+    <string name="feedback_7">The symbols add a cool visual to each of the Signs and Planets. These classical symbols, often used, have been around since the Byzantine period.</string>
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+
+    <string name="question_end">You finished the quiz!</string>
+    <string name="feedback_end">Find out more and get a free birth chart at https://cafeastrology.com/</string>
+
+    <string name="question_1_hint">Placeholder1</string>
+    <string name="question_2_hint">Placeholder2</string>
+    <string name="question_3_hint">Placeholder3</string>
+    <string name="question_4_hint">Placeholder4</string>
+    <string name="question_5_hint">Placeholder5</string>
+    <string name="question_6_hint">The emblem of this sign is a ram, and this sign starts off the Spring.</string>
+    <string name="question_7_hint">Each of the Zodiac has a Symbol, like an animal, such as the Ram symbol that represents Aries. The Symbol for Leo, is an animal that is commonly known as the King of the Jungle.</string>
+
+    <string-array name="question_6_answers">
+        <item>aries</item>
+        <item>the aries</item>
+        <item>the aries sign</item>
+    </string-array>
+    <string name="check_button">Check</string>
+
+    <string name="cheat_button">CHEAT!</string>
+    <string name="cheat_warning">Are you sure you want to cheat? They will know 😳 </string>
+    <string name="show_answer_button">SHOW ANSWER?</string>
+    <string name="cheat_shame">I told you they'd know...</string>
+
+    <string name="score">SCORE: %1$d</string>
+
+    <string-array name="question_7_answers">
+        <item>the Moon</item>
+        <item>a Crab</item>
+        <item>a Lion</item>
+        <item>a Bull</item>
+    </string-array>
+
+    <string name="a_button">the Moon</string>
+    <string name="b_button">a Crab</string>
+    <string name="c_button">a Lion</string>
+    <string name="d_button">a Bull</string>
+
+
+</resources>
